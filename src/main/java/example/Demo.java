@@ -15,6 +15,9 @@ public class Demo {
 		System.out.println("ex4");
 		System.out.println("ex5");
 		
+		//By y- develop branch
+		System.out.println("ex6");
+		System.out.println("ex7");
 	}
 
 }
