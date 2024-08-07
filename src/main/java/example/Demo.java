@@ -6,6 +6,10 @@ public class Demo {
 		// TODO Auto-generated method stub
 		//By x
 		System.out.println("ex1");
+		
+		//By y
+		System.out.println("ex2");
+		System.out.println("ex3");
 	}
 
 }
