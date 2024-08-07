@@ -10,6 +10,11 @@ public class Demo {
 		//By y
 		System.out.println("ex2");
 		System.out.println("ex3");
+		
+		//By x- develop branch
+		System.out.println("ex4");
+		System.out.println("ex5");
+		
 	}
 
 }
